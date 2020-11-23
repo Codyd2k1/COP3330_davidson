@@ -1,2 +1,0 @@
-0) [2020-11-16] Task 1: Programming AS 3
-1) [2020-01-23] Task 2: Testing
